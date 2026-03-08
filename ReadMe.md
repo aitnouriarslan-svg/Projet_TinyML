@@ -7,8 +7,8 @@ Ce projet implémente deux systèmes d'intelligence artificielle embarquée (Tin
 
 
 This project implements two embedded AI (TinyML) systems on Arduino Nano 33 BLE Sense:
-- Vibration classification**: real-time detection of machine state (idle, normal, intense) using the built-in IMU and a TensorFlow Lite neural network.
-- Electronic component classification**: recognition of components (capacitor, resistor, diode, transistor) using an OV7670 camera and an Edge Impulse model, with real-time counting on Node-RED.
+- Vibration classification: real-time detection of machine state (idle, normal, intense) using the built-in IMU and a TensorFlow Lite neural network.
+- Electronic component classification: recognition of components (capacitor, resistor, diode, transistor) using an OV7670 camera and an Edge Impulse model, with real-time counting on Node-RED.
 
 ---
 
